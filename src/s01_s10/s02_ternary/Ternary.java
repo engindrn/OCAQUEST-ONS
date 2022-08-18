@@ -1,7 +1,7 @@
 package s01_s10.s02_ternary;
 
-public class Ternary {
-    public static void main(String[] args) {
+/*public class Ternary {
+   public static void main(String[] args) {
 
         int x =5 ;
 
@@ -21,4 +21,4 @@ public class Ternary {
 
 
     }
-}
+}*/
